@@ -12,7 +12,7 @@ The entire code is heavily inspired by the following projects:
 An example code to synthesize a simple chord:
 
 ```cs
-// Create the synthesizer.
+// Create the synthesizer.1
 var sampleRate = 44100;
 var synthesizer = new Synthesizer("TimGM6mb.sf2", sampleRate);
 
